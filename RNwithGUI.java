@@ -18,7 +18,5 @@ public class RNwithGUI {
 			 age = Integer.parseInt(JOptionPane.showInputDialog("Guess My Number "));	
 		} 
 		JOptionPane.showMessageDialog(null,"My number was "+mynumber);
-		
 	}
-
 }
