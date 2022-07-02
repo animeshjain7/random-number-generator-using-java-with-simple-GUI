@@ -1,4 +1,5 @@
 import javax.swing.JOptionPane;
+//make sure to change the class name according to your convenience :) 
 
 public class RNwithGUI {
 	public static void main(String[] args) {
